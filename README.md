@@ -8,6 +8,7 @@ Collect stats for Q42 internal usage, shared accross multiple iOS projects.
 1. Use the Swift package manager to add  `Q42Stats` into your iOS project
 2. Implement your configuration and a SHA256 implementation (see reference implementations below)
 3. Include stats collection & submission in your AppDelegate/WindowSceneDelegate like so:
+4. 4. bla test
 
 ```swift
 Q42Stats(options: .all)
